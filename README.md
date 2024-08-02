@@ -2,7 +2,15 @@
 **Meu nome é Denilson**
 - Sou professor de tecnologia na escola Estadual de São Paulo.
 - Sou programador e desenvolvedor.
-- Sou estudante da plataforma [Alura](https//www.alura.com.br)
+- Cursos [Alura](https//www.alura.com.br)
+- Introdução à computação: ambientes e ferramentas de programação
+- Listas: criando o seu jogo de cartas com listas e padrões
+- Linguagem de programação: criando projetos artísticos com Javascript
+- Lógica de programação: desenvolvendo um jogo estilo Pong
+- Pensamento Computacional na Educação Básica
+- Conhecendo a Alura
+- Scratch na educação básica: estratégias didáticas e recursos para educadores
+- Desenvolvimento web: ferramentas e orientações para professores
 
 ![](https://media1.tenor.com/m/sBfXf-v4YJQAAAAC/the-world-if-technology-didnt-exist.gif)
 
